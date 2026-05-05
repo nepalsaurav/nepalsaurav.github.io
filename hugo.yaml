@@ -77,14 +77,10 @@ menu:
       name: Contact
       url: /contact/
       weight: 60
-    - identifier: tags
-      name: Tags
-      url: /tags/
-      weight: 70
     - identifier: search
       name: Search
       url: /search/
-      weight: 80
+      weight: 70
 
 markup:
   goldmark:
