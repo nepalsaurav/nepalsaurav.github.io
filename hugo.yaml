@@ -1,6 +1,6 @@
 baseURL: https://nepalsaurav.github.io/
 locale: en-us
-title: Saurav Nepal - Portfolio
+title: Saurav Nepal
 theme: ["PaperMod"]
 
 params:
