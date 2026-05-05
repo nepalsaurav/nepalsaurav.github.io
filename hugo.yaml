@@ -1,4 +1,51 @@
 baseURL: https://nepalsaurav.github.io/
 locale: en-us
-title: Saurav Paudel - Portfolio
+title: Saurav Nepal - Portfolio
 theme: ["PaperMod"]
+
+params:
+  env: production
+  title: Saurav Nepal
+  description: "IT Specialist, Educator, and Researcher"
+  author: Saurav Nepal
+  
+  profileMode:
+    enabled: true
+    title: "Hi, I'm Saurav Nepal 👋"
+    subtitle: "Lecturer | IT Specialist | Data Enthusiast\n\n**Career Objective:** Doing research, teaching, reading, and searching for new ideas."
+    buttons:
+      - name: Experience
+        url: /experience/
+      - name: Education
+        url: /education/
+      - name: Skills & Certifications
+        url: /skills/
+      - name: Projects
+        url: /projects/
+
+  socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/saurav-nepal-75597013b/"
+    - name: github
+      url: "https://github.com/nepalsaurav"
+    - name: email
+      url: "mailto:nepalsaurav123@gmail.com"
+
+menu:
+  main:
+    - identifier: experience
+      name: Experience
+      url: /experience/
+      weight: 10
+    - identifier: education
+      name: Education
+      url: /education/
+      weight: 20
+    - identifier: skills
+      name: Skills
+      url: /skills/
+      weight: 30
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 40
