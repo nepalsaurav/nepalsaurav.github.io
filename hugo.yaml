@@ -12,7 +12,7 @@ params:
   profileMode:
     enabled: true
     title: "Hi, I'm Saurav Nepal 👋"
-    subtitle: "Lecturer | IT Specialist | Data Enthusiast\n\n**Career Objective:** Doing research, teaching, reading, and searching for new ideas."
+    subtitle: "Bridging the Gap Between Data Engineering and Academia\n\nI am an IT Specialist, Educator, and lifelong learner. My passion lies in driving impactful research, mentoring the next generation of technologists, and continuously exploring the frontiers of data science."
     buttons:
       - name: Experience
         url: /experience/
@@ -22,6 +22,8 @@ params:
         url: /skills/
       - name: Projects
         url: /projects/
+      - name: Blog
+        url: /posts/
 
   socialIcons:
     - name: linkedin
@@ -49,3 +51,7 @@ menu:
       name: Projects
       url: /projects/
       weight: 40
+    - identifier: blog
+      name: Blog
+      url: /posts/
+      weight: 50
