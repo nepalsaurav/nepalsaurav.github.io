@@ -34,6 +34,8 @@ params:
         url: /projects/
       - name: Blog
         url: /posts/
+      - name: Contact
+        url: /contact/
 
   socialIcons:
     - name: linkedin
@@ -65,3 +67,12 @@ menu:
       name: Blog
       url: /posts/
       weight: 50
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 60
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
