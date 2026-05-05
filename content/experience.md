@@ -33,9 +33,3 @@ description: "My Academic and Industry Experience"
 - Managed sales invoices, income statements, receipts, and payment logs.
 - Handled corporation tax submissions, TDS returns, and payroll preparation for staff.
 - Developed and maintained databases for efficient financial tracking and performed credit control duties.
-
-## References
-
-**Kapil Agrawal**  
-Chief Operating Officer, ABC Securities Pvt. Ltd.  
-Contact: +977 015970117
