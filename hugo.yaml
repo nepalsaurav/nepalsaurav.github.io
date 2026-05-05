@@ -3,6 +3,12 @@ locale: en-us
 title: Saurav Nepal
 theme: ["PaperMod"]
 
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
 params:
   env: production
   title: Saurav Nepal
@@ -71,6 +77,14 @@ menu:
       name: Contact
       url: /contact/
       weight: 60
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 70
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 80
 
 markup:
   goldmark:
