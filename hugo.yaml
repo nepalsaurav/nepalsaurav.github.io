@@ -12,7 +12,7 @@ params:
   profileMode:
     enabled: true
     title: "Hi, I'm Saurav Nepal 👋"
-    subtitle: "Bridging the Gap Between Data Engineering and Academia\n\nI am an IT Specialist, Educator, and lifelong learner. My passion lies in driving impactful research, mentoring the next generation of technologists, and continuously exploring the frontiers of data science."
+    subtitle: "Passionate about Data, Math, CS, and Economics."
     buttons:
       - name: Experience
         url: /experience/
