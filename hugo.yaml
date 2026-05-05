@@ -77,10 +77,6 @@ menu:
       name: Contact
       url: /contact/
       weight: 60
-    - identifier: search
-      name: Search
-      url: /search/
-      weight: 70
 
 markup:
   goldmark:
