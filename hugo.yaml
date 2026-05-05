@@ -13,6 +13,10 @@ params:
     enabled: true
     title: "Hi, I'm Saurav Nepal 👋"
     subtitle: "Passionate about Data, Math, CS, and Economics."
+    imageUrl: "photo/profile/profile.png"
+    imageWidth: 150
+    imageHeight: 150
+    imageTitle: "Saurav Nepal"
     buttons:
       - name: Experience
         url: /experience/
